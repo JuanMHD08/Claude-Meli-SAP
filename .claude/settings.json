@@ -1,0 +1,24 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__abap-adt__GetTransport",
+      "mcp__abap-adt__RunQuery",
+      "mcp__abap-adt__GetConnectionInfo",
+      "mcp__abap-adt__GetFeatures",
+      "mcp__abap-adt__ListTransports",
+      "mcp__abap-adt__CallRFC",
+      "mcp__abap-adt__GetTableContents",
+      "mcp__abap-adt__SearchObject",
+      "mcp__abap-adt__GetSource",
+      "mcp__abap-adt__GrepObjects"
+    ]
+  },
+  "enableAllProjectMcpServers": true,
+  "enabledMcpjsonServers": [
+    "abap-adt"
+  ],
+  "enabledPlugins": {
+    "sap-abap@sap-skills": true,
+    "sap-abap-cds@sap-skills": true
+  }
+}

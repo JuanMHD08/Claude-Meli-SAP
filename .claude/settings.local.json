@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__abap-adt__GetPackage",
+      "mcp__abap-adt__GrepPackages",
+      "mcp__abap-adt__FindReferences",
+      "mcp__abap-adt__GetClassInfo"
+    ]
+  }
+}
