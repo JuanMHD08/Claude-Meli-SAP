@@ -28,5 +28,3 @@ El resultado final debe ser un archivo .MD que contenga las siguientes secciones
 5. Supuestos y Dependencias: Una sección que detalle cualquier supuesto realizado durante el análisis y la planificación de la solución, así como cualquier dependencia identificada que pueda afectar la implementación de la solución.
 
 El archivo .MD debe ser nombrado con el título del requerimiento, error, dump o problema de rendimiento que se está abordando, para facilitar su identificación y seguimiento en el proyecto MCB. Pregunta por la ruta en la que se debe guardar el archivo .MD resultante, asegurándote de que esté correctamente ubicado dentro de la estructura del proyecto MCB para su fácil acceso y referencia futura.
-
-Prueba cambio
