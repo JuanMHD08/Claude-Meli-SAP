@@ -1,1 +1,15 @@
+#Ignorar todo por defecto
+*
 
+#Mantener este archivo homologado
+!.gitignore
+
+#Sincronizar solo estas carpetas y sus contenidos
+!.claude/agents/
+!.claude/agents/**
+
+!.claude/rules/
+!.claude/rules/**
+
+!.claude/skills/
+!.claude/skills/**
